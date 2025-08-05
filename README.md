@@ -20,7 +20,7 @@
 <br>
 
 <details>
-  <summary><strong>🎧 Busy coding & vibing to:</strong></summary>
+  <summary><strong>🎧 Busy coding & vibing :</strong></summary>
   <br>
 
 <br>
@@ -39,6 +39,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
 
 }
