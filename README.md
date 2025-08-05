@@ -4,7 +4,7 @@
                                                      ##  I'm an IT Student
 
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently improving my skills in Python and C.
 - 🥅 2025 Goals: become an AI Developer and improve my skills.
 
 
