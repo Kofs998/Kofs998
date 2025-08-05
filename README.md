@@ -1,6 +1,8 @@
-                                                       Hi there! Welcome!
+                                               
+                                                     Hi there! Welcome!
 
-                                                       ## I'm an IT Student
+                                                   ##  I'm an IT Student
+
 
 - 🌱 I’m currently learning Python
 - 🥅 2025 Goals: become an AI Developer
