@@ -1,11 +1,11 @@
                                                
                                                      Hi there! Welcome!
 
-                                                   ##  I'm an IT Student
+                                                     ##  I'm an IT Student
 
 
-- 🌱 I’m currently learning Python
-- 🥅 2025 Goals: become an AI Developer
+- 🌱 I’m currently learning Python.
+- 🥅 2025 Goals: become an AI Developer and improve my skills.
 
 
 <div align="center">
@@ -42,4 +42,4 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
 
-}
+
